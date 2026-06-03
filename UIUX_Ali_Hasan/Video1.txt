@@ -1,0 +1,93 @@
+FIGMA UI/UX DESIGN
+******************
+
+1. FIGMA INTERFACE INTRODUCTION
+
+- Frames
+- Grids
+- Device Breakpoints
+
+2. COLOR THEORY
+
+- Color Harmony
+- Gradients
+- Image Color Correction
+- Color Pallete Generation
+- Plugins For Color Pallate
+
+
+3. MOST USEFUL SHAPES
+
+- Rectangle
+- Line & Arrow Tools
+- Ellipse & Circle
+- Polygon & Star Tool
+
+4. STROKES AND EFFECTS
+
+- Drop Shadow & Inner Shadow
+- Layer Blur & Background Blur
+- Export
+
+5. TYPOGRAPHY PRINCIPLES
+
+- Typography Theory 
+- Serif & Sans Serif Typefaces
+
+6. THREE BACKBONES OF FIGMA
+
+- Auto layout
+- Components
+- Varients
+
+7. MASTER CONCEPTS WITH PROJECTS
+
+- Car Dealer Website Design 
+- UIUX Design Portfolio
+- Travel Agency Website Design
+
+8. PROTOTYPE AND ANIMATION
+
+- Prototype Basic
+- All Triger's 
+- All Actions Explain
+- All Transition Explained
+- Smart & Disolve Animate
+- Bezier Curve with Example
+
+9. ADVANCED PROJECT
+
+- Car Dealer Website Design (Animation + Micro Interaction + Dynamic Components)
+
+10. DESIGN THINKING
+
+- Design Thinking : 4 Principles 
+- Design Thinking : 5 Phase
+
+11. UX PROCESS, FIGJAM, BRAINSTROMING
+
+- UX Design Process
+- FIGJAM for Brainstroming 
+- User Persona
+
+12. ADVANCED PROJECT 
+
+- Hotel Booking Platform (Wireframe + User Persona + Interactive component + micro-interaction)
+
+13. ACCESSIBILITY & WCAG
+
+- Accessibility & WCAG standards 
+- Plugins for Accessibility 
+
+14. COLOR PSYCHOLOGY
+
+- Color Psychology with examples
+- What is Atomic Design ?
+
+15. MATERIAL DESIGN SYSTEM 
+
+- Design System in UI/UX
+- Guideline for Mobile Apps
+- Integrate Components From Design System
+
+ 

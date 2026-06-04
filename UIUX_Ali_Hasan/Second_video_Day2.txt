@@ -1,0 +1,5 @@
+
+Today i learn about the basic's of figma tool.
+
+* I learned about Frames, how to align items and how to add different types of font text.
+* How to add images and how to export the added one and all etc...

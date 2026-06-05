@@ -1,0 +1,13 @@
+
+Responsive Grid Systems in Web & UI Design
+******************************************
+
+WHY DO WE USE GRID ?
+
+- A grid is like a plan for arranging things neatly.
+- It helps make designs look organized and clear.
+- Grids make some things stand out more than others.
+- They stop you from just Guessing where things should go.
+
+
+
